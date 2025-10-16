@@ -30,7 +30,8 @@ Power BI → Interactive dashboard for visual trend analysis and insights.
 8 : Imported cleaned CSV
 
 9 : Designed visuals for ratings, trends, and improvement zones
- Original dataset collected from student 👉 student_feedback.csv
- Colab notebook used for data analysis 👉COLLEGE EVENT FEEDBACK ANALYSIS .ipynb
+ Original dataset collected from student 👉 https://github.com/balaji05-gif/FUTURE_DS_03/blob/main/student_feedback.csv
+ Colab notebook used for data analysis 👉https://github.com/balaji05-gif/FUTURE_DS_03/blob/main/COLLEGE_EVENT_FEEDBACK_ANALYSIS_.ipynb
+ git hub repository : https://github.com/balaji05-gif/FUTURE_DS_03/blob/main/student_feedback.csv
 Developed by: Balaji M
 contact : balajibalajiac1496@gmail.com
